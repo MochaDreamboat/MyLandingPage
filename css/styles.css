@@ -1,0 +1,100 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #35858B;
+}
+
+
+h1, h2 {
+    color: #66BFBF;
+}
+
+h2, h3 {
+    font-size: 1.5rem;
+    margin: 10px;
+    }
+    
+h1 {
+    font-size: 2.7rem;
+    width: 10%;
+    margin: 25px auto 25px auto;
+    line-height: 3rem;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+p, span {
+    font-family: 'Roboto', sans-serif;
+}
+
+.middle-container, .skills {
+    position: relative;
+}
+
+.top-container {
+    background-color: #AEFEFF;
+    position: relative;
+    padding-top: 100px;
+}
+
+.dots {
+    border-style: dotted hidden hidden;
+    border-width: 10px;
+    border-height: 0px;
+    border-color: grey;
+    margin: 30px auto;
+    width: 7%;
+}
+.middle-container {
+    padding-top: 20px;
+}
+
+.bottom-container {
+    padding-top: 20px;
+    background-color: #35858B;
+    color: white;
+}
+
+.skill-row {
+    margin: 25px auto 25px;
+    padding: 5px;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 200px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 225px;
+    left: 200px;
+}
+
+#profPic {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+.skillOne, .skillTwo {
+    width: 25%;
+    float: left;
+    margin-right: 25px;
+}
+
+.skillTwo {
+    float: right;
+}
